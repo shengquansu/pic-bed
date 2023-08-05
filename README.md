@@ -1,2 +1,2 @@
-# jupyter-pic
-jupyter源文件图床
+# pic-bed
+Markdown、Jupyter源文件图床
